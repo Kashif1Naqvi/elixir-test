@@ -35,4 +35,7 @@ Writing Test for Password Generator
 
   ```mix test ```
 
-  
+You check my code
+
+```lib/password_generator.ex```  
+```test/password_generator_test.exs```
